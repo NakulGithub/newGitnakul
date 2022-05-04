@@ -5,11 +5,11 @@
     "functions": [],
     "variables": {},
     "resources": [{
-        "name": "nakulsharma123",
+        "name": "nakulsharma1234",
         "type": "Microsoft.Storage/storageAccounts",
         "apiVersion": "2021-04-01",
         "tags": {
-            "displayName": "nakulsharma123"
+            "displayName": "nakulsharma1234"
         },
         "location": "[resourceGroup().location]",
         "kind": "StorageV2",
